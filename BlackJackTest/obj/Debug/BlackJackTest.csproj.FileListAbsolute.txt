@@ -1,0 +1,7 @@
+C:\Maxim\BMSTU\6\PPO\BlackJackTest\BlackJackTest\obj\Debug\BlackJackTest.csprojAssemblyReference.cache
+C:\Maxim\BMSTU\6\PPO\BlackJackTest\BlackJackTest\obj\Debug\BlackJackTest.csproj.CoreCompileInputs.cache
+C:\Maxim\BMSTU\6\PPO\BlackJackTest\BlackJackTest\bin\Debug\BlackJackTest.exe.config
+C:\Maxim\BMSTU\6\PPO\BlackJackTest\BlackJackTest\bin\Debug\BlackJackTest.exe
+C:\Maxim\BMSTU\6\PPO\BlackJackTest\BlackJackTest\bin\Debug\BlackJackTest.pdb
+C:\Maxim\BMSTU\6\PPO\BlackJackTest\BlackJackTest\obj\Debug\BlackJackTest.exe
+C:\Maxim\BMSTU\6\PPO\BlackJackTest\BlackJackTest\obj\Debug\BlackJackTest.pdb
